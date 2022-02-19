@@ -1,0 +1,7 @@
+fr/paris/lutece/plugins/catalog/business/Catalog.class
+fr/paris/lutece/plugins/catalog/web/AbstractUpdateJspBean.class
+fr/paris/lutece/plugins/catalog/web/CatalogJspBean.class
+fr/paris/lutece/plugins/catalog/business/CatalogDAO.class
+fr/paris/lutece/plugins/catalog/business/ICatalogDAO.class
+fr/paris/lutece/plugins/catalog/business/CatalogHome.class
+fr/paris/lutece/plugins/catalog/web/CatalogXPage.class

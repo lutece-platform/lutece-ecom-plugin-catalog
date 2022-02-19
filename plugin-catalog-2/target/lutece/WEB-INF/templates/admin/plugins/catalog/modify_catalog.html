@@ -1,0 +1,27 @@
+<#include "update_tabs.html" />
+<@tabs2 tab="catalog" />
+
+<@box>
+	<@boxHeader title='#i18n{catalog.modify_catalog.title}' />
+	<@boxBody>
+    <@tform class="form-horizontal" method="post" name="modify_catalog" action="jsp/admin/plugins/catalog/ManageCatalogs.jsp">
+			<@messages errors=errors />
+			<input type="hidden" id="id" name="id" value="${catalog.id}"/>
+			<input type="hidden" value="${token}" name="token" />
+			
+			<@formGroup labelFor='name' labelKey='#i18n{catalog.modify_catalog.labelName}' mandatory=true>
+          		<@input type='text' id='name' name='name'  maxlength=50 value='${catalog.name!\'\'}' tabIndex='0' />
+			</@formGroup>
+			<@formGroup labelFor='description' labelKey='#i18n{catalog.modify_catalog.labelDescription}' mandatory=true>
+          		<@input type='text' id='description' name='description'  value='${catalog.description!\'\'}' tabIndex='1' />
+			</@formGroup>
+			<@formGroup labelFor='price' labelKey='#i18n{catalog.modify_catalog.labelPrice}' mandatory=true>
+          		<@input type='text' id='price' name='price'  value='${catalog.price!\'\'}' tabIndex='2' />
+			</@formGroup>
+			<@formGroup labelFor='vat' labelKey='#i18n{catalog.modify_catalog.labelVat}' mandatory=true>
+          		<@input type='text' id='vat' name='vat'  value='${catalog.vat!\'\'}' tabIndex='3' />
+			</@formGroup>
+        <@actionButtons button1Name="action_modifyCatalog" button2Name="view_manageCatalog"/>
+    </@tform>
+	</@boxBody>
+</@box>

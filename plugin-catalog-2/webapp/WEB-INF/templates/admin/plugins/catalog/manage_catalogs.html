@@ -1,0 +1,52 @@
+<#include "update_tabs.html" />
+<@tabs2 tab="catalog" />
+
+<@box>
+	<@boxHeader title='#i18n{catalog.manage_catalog.title}' boxTools=true>
+		<@tform class='form-inline pull-right' name='manage_catalog' action='jsp/admin/plugins/catalog/ManageCatalogs.jsp'>
+			<@button type='submit' name='view_createCatalog' buttonIcon='plus' title='#i18n{catalog.manage_catalogs.buttonAdd}' />
+		</@tform>
+	</@boxHeader>
+	<@boxBody>    
+    <@messages infos=infos />
+    <@paginationAdmin paginator=paginator combo=1 />
+    <div class="clearfix"></div>
+    <@table>
+        <tr>
+            <input type="hidden" id="id" name="id"/>
+            <th>#i18n{catalog.manage_catalogs.columnName}</th>
+            <th>#i18n{catalog.manage_catalogs.columnDescription}</th>
+            <th>#i18n{catalog.manage_catalogs.columnPrice}</th>
+            <th>#i18n{catalog.manage_catalogs.columnVat}</th>
+            <th>#i18n{portal.util.labelActions}</th>
+        </tr>
+        <@tableHeadBodySeparator />
+        <#list catalog_list as catalog >
+        <tr>
+            <input type="hidden" id="id" name="id"/>
+            <td>
+				${catalog.name}
+			</td>
+            <td>
+				${catalog.description}
+			</td>
+            <td>
+				${catalog.price}
+			</td>
+            <td>
+				${catalog.vat}
+			</td>
+        	<td>
+				<@aButton href='jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=modifyCatalog&id=${catalog.id}' title='#i18n{portal.util.labelModify}' hideTitle=['all'] buttonIcon='pencil' />
+						
+				<@aButton href='jsp/admin/plugins/catalog/ManageCatalogs.jsp?action=confirmRemoveCatalog&id=${catalog.id}' title='#i18n{portal.util.labelDelete}' buttonIcon='trash' hideTitle=['all'] color='btn-danger'  />
+
+	        </td>
+        </tr>
+        </#list>
+    </@table>
+
+    <@paginationAdmin paginator=paginator />
+
+  </@boxBody>
+</@box>

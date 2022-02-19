@@ -1,0 +1,1906 @@
+15/10/21 11:20:04 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+15/10/21 11:20:06 DEBUG [http-nio-8080-exec-2] lutece.cache - Initializing cache : StaticFilesCachingFilter
+15/10/21 11:20:06 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+15/10/21 11:20:06 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-colorpicker.min.js
+15/10/21 11:20:06 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login3.jpg
+15/10/21 11:20:06 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/favicon.ico
+15/10/21 11:20:10 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+15/10/21 11:20:10 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:20:15 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+15/10/21 11:20:15 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+15/10/21 11:20:25 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+15/10/21 11:20:25 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:20:25 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:20:28 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyDefaultUserPassword.jsp
+15/10/21 11:20:28 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyDefaultUserPassword.jsp
+15/10/21 11:20:44 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/DoModifyDefaultUserPassword.jsp
+15/10/21 11:20:44 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:20:44 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:20:46 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogout.jsp
+15/10/21 11:20:46 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:20:51 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+15/10/21 11:20:51 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+15/10/21 11:20:51 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login4.jpg
+15/10/21 11:20:54 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+15/10/21 11:20:54 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:20:55 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+15/10/21 11:20:55 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+15/10/21 11:20:55 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login1.jpg
+15/10/21 11:21:01 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+15/10/21 11:21:01 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+15/10/21 11:21:01 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+15/10/21 11:21:07 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp
+15/10/21 11:21:07 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp?plugin_name=
+15/10/21 11:21:10 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/DoInstallPlugin.jsp
+15/10/21 11:21:10 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp
+15/10/21 11:21:10 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp
+15/10/21 11:21:15 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ManageUsers.jsp
+15/10/21 11:21:15 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/user/ManageUsers.jsp?plugin_name=
+15/10/21 11:21:18 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUser.jsp
+15/10/21 11:21:18 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUser.jsp?id_user=1
+15/10/21 11:21:20 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp
+15/10/21 11:21:20 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp?id_user=1
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-8] lutece.authentication - Access NOT granted to url : http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-colorpicker.min.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-flatpickr.min.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/material-kit/material-kit.override.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/all.min.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap.min.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap4.override.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/portal_admin.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-colorpicker.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/js/admin/bootstrap-filestyle.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/popper.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/bootstrap-material-design.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/js/admin/jquery/jquery-3.5.1.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/material-kit/material-kit.min.css
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/bootstrap-datetimepicker.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/nouislider.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/js/admin/jquery/jquery-ui.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/jquery.sharrre.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/js/admin/bootstrap-flatpickr.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/material-kit.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/material-kit-forms.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/moment-with-locales.min.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/admin.js
+15/10/21 11:22:01 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/images/poweredby.png
+15/10/21 11:22:02 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/css/admin/style/webfonts/fa-solid-900.woff2
+15/10/21 11:22:02 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/favicon.ico
+15/10/21 11:22:03 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+15/10/21 11:22:03 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/images/logo-header.png
+15/10/21 11:22:03 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+15/10/21 11:22:03 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login2.jpg
+15/10/21 11:22:12 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+15/10/21 11:22:12 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp
+15/10/21 11:22:12 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp?id_user=1
+15/10/21 11:22:12 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/js/admin/jquery/jquery-migrate-3.3.1.min.js
+15/10/21 11:22:12 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/images/logo-header-icon.png
+15/10/21 11:22:12 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/images/admin/skin/unknown.png
+15/10/21 11:22:42 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/DoModifyUserRights.jsp
+15/10/21 11:22:43 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ManageUserRights.jsp
+15/10/21 11:22:43 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ManageUserRights.jsp?id_user=1
+15/10/21 11:22:46 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+15/10/21 11:22:46 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+15/10/21 11:22:46 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+15/10/21 11:22:46 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp
+15/10/21 11:22:49 INFO  [http-nio-8080-exec-2] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/site/AdminPagePreview.jsp
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/datepicker.css
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/css/bootstrap-theme.min.css
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/css/page_template_styles.css
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/css/font-awesome.min.css
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/css/bootstrap.min.css
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/css/page_template_styles_admin.css
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/js/jquery/plugins/ui/css/jquery-ui-1.10.0.custom.css
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/js/bootstrap.min.js
+15/10/21 11:22:49 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/js/jquery/jquery.min.js
+15/10/21 11:22:51 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ManageCaches.jsp
+15/10/21 11:22:52 INFO  [http-nio-8080-exec-6] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/system/ManageCaches.jsp?plugin_name=
+15/10/21 11:22:53 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp
+15/10/21 11:22:53 INFO  [http-nio-8080-exec-10] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp?plugin_name=
+15/10/21 11:22:53 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/images/admin/skin/feature_default_icon.png
+15/10/21 11:22:53 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/images/admin/skin/core.png
+15/10/21 11:22:53 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/images/admin/skin/plugins/lucene/lucene.png
+15/10/21 11:22:57 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/role/ManagePageRole.jsp
+15/10/21 11:22:58 INFO  [http-nio-8080-exec-7] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/role/ManagePageRole.jsp?plugin_name=
+15/10/21 11:23:00 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ManageUsers.jsp
+15/10/21 11:23:00 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ManageUsers.jsp?plugin_name=
+15/10/21 11:23:03 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUser.jsp
+15/10/21 11:23:03 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUser.jsp?id_user=1
+15/10/21 11:23:03 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/js/admin/jquery/plugins/jquery.complexify.js
+15/10/21 11:23:04 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp
+15/10/21 11:23:04 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp?id_user=1
+15/10/21 11:23:12 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/DoModifyUserRights.jsp
+15/10/21 11:23:12 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ManageUserRights.jsp
+15/10/21 11:23:12 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ManageUserRights.jsp?id_user=1
+15/10/21 11:23:15 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUserRoles.jsp
+15/10/21 11:23:15 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUserRoles.jsp?id_user=1
+15/10/21 11:23:19 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+15/10/21 11:23:19 INFO  [http-nio-8080-exec-2] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+15/10/21 11:23:19 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+15/10/21 11:23:19 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+15/10/21 11:23:29 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp
+15/10/21 11:23:29 INFO  [http-nio-8080-exec-10] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp?plugin_name=
+15/10/21 11:24:09 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:24:10 DEBUG [http-nio-8080-exec-8] lutece.mvc - MVC controller - process default view
+15/10/21 11:24:10 ERROR [http-nio-8080-exec-8] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+15/10/21 11:24:10 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?plugin_name=catalog
+15/10/21 11:24:50 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:24:50 DEBUG [http-nio-8080-exec-5] lutece.mvc - MVC controller - process view : 'createCatalog'
+15/10/21 11:24:50 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:38 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:38 DEBUG [http-nio-8080-exec-3] lutece.mvc - MVC controller - process action : 'createCatalog'
+15/10/21 11:25:38 INFO  [http-nio-8080-exec-3] util.Version - HV000001: Hibernate Validator 5.3.5.Final
+15/10/21 11:25:38 INFO  [http-nio-8080-exec-3] xml.ValidationXmlParser - HV000007: META-INF/validation.xml found. Parsing XML based configuration.
+15/10/21 11:25:39 INFO  [http-nio-8080-exec-3] xml.ValidationBootstrapParameters - HV000004: Using fr.paris.lutece.util.beanvalidation.LuteceMessageInterpolator as message interpolator.
+15/10/21 11:25:39 DEBUG [http-nio-8080-exec-3] lutece.mvc - Redirect :ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:25:39 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:39 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:39 DEBUG [http-nio-8080-exec-10] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+15/10/21 11:25:39 ERROR [http-nio-8080-exec-10] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+15/10/21 11:25:39 INFO  [http-nio-8080-exec-10] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:25:41 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:41 DEBUG [http-nio-8080-exec-6] lutece.mvc - MVC controller - process view : 'modifyCatalog'
+15/10/21 11:25:41 INFO  [http-nio-8080-exec-6] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=modifyCatalog&id=1
+15/10/21 11:25:50 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:50 DEBUG [http-nio-8080-exec-4] lutece.mvc - MVC controller - process action : 'modifyCatalog'
+15/10/21 11:25:50 DEBUG [http-nio-8080-exec-4] lutece.mvc - Redirect :ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:25:50 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:50 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:25:50 DEBUG [http-nio-8080-exec-9] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+15/10/21 11:25:50 ERROR [http-nio-8080-exec-9] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+15/10/21 11:25:50 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:26:03 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:26:03 DEBUG [http-nio-8080-exec-8] lutece.mvc - MVC controller - process view : 'modifyCatalog'
+15/10/21 11:26:03 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=modifyCatalog&id=1
+15/10/21 11:26:07 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:26:07 DEBUG [http-nio-8080-exec-7] lutece.mvc - MVC controller - process action : 'modifyCatalog'
+15/10/21 11:26:07 DEBUG [http-nio-8080-exec-7] lutece.mvc - Redirect :ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:26:07 INFO  [http-nio-8080-exec-7] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:26:07 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:26:07 DEBUG [http-nio-8080-exec-1] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+15/10/21 11:26:07 ERROR [http-nio-8080-exec-1] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+15/10/21 11:26:07 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:26:15 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:26:15 DEBUG [http-nio-8080-exec-5] lutece.mvc - MVC controller - process action : 'confirmRemoveCatalog'
+15/10/21 11:26:15 DEBUG [http-nio-8080-exec-5] lutece.mvc - Redirect :http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:26:15 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?action=confirmRemoveCatalog&id=1
+15/10/21 11:26:15 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:26:15 INFO  [http-nio-8080-exec-2] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+15/10/21 11:26:17 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:26:17 DEBUG [http-nio-8080-exec-3] lutece.mvc - MVC controller - process action : 'removeCatalog'
+15/10/21 11:26:17 DEBUG [http-nio-8080-exec-3] lutece.mvc - Redirect :ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:26:17 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?action=removeCatalog&id=1
+15/10/21 11:26:17 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:26:17 DEBUG [http-nio-8080-exec-10] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+15/10/21 11:26:17 ERROR [http-nio-8080-exec-10] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+15/10/21 11:26:17 INFO  [http-nio-8080-exec-10] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:27:14 DEBUG [http-nio-8080-exec-7] lutece.cache - Initializing cache : PageCachingFilter (CAUTION : NEVER USE WITH USER DYNAMIC DATA)
+15/10/21 11:27:14 ERROR [http-nio-8080-exec-7] lutece.error - The specified Xpage '
+** USER INPUT DATA : BEGIN (0 lines and 7 chars) ** 
+project
+** USER INPUT DATA : END
+' cannot be retrieved. Check installation of your Xpage application.
+15/10/21 11:27:14 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/css/bootstrap-responsive.min.css
+15/10/21 11:28:05 DEBUG [http-nio-8080-exec-8] lutece.mvc - MVC controller - process default view
+15/10/21 11:28:14 DEBUG [http-nio-8080-exec-1] lutece.mvc - MVC controller - process view : 'createCatalog'
+15/10/21 11:28:32 DEBUG [http-nio-8080-exec-5] lutece.mvc - MVC controller - process action : 'createCatalog'
+15/10/21 11:28:32 DEBUG [http-nio-8080-exec-5] lutece.mvc - Redirect :Portal.jsp?page=catalog&view=manageCatalogs
+15/10/21 11:28:32 DEBUG [http-nio-8080-exec-2] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+15/10/21 11:35:11 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:35:11 DEBUG [http-nio-8080-exec-9] lutece.mvc - MVC controller - process view : 'createCatalog'
+15/10/21 11:35:11 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:35:12 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/favicon.ico
+15/10/21 11:35:30 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:35:30 DEBUG [http-nio-8080-exec-7] lutece.mvc - MVC controller - process action : 'createCatalog'
+15/10/21 11:35:30 DEBUG [http-nio-8080-exec-7] lutece.mvc - Redirect :ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:35:30 INFO  [http-nio-8080-exec-7] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:35:30 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+15/10/21 11:35:30 DEBUG [http-nio-8080-exec-1] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+15/10/21 11:35:30 ERROR [http-nio-8080-exec-1] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+15/10/21 11:35:30 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=manageCatalogs
+15/10/21 11:35:30 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/favicon.ico
+15/10/21 11:35:33 DEBUG [http-nio-8080-exec-2] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+15/10/21 11:35:33 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/js/jquery/jquery.min.js
+15/10/21 11:35:33 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/js/bootstrap.min.js
+15/10/21 11:35:33 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/images/logo-header.png
+15/10/21 11:35:33 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/images/poweredby.png
+15/10/21 14:46:29 DEBUG [http-nio-8080-exec-3] lutece.cache - Object removed from the cache : PortalMenuService - key : [menu:1][m:0][roles:-]
+15/10/21 14:46:29 DEBUG [http-nio-8080-exec-3] lutece.cache - Object removed from the cache : LinksIncludeCacheService - key : [mode=0][locale=en_US]
+15/10/21 14:46:29 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/css/page_template_styles.css
+15/10/21 14:46:29 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/css/font-awesome.min.css
+15/10/21 14:46:30 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/bootstrap.min.css
+15/10/21 14:46:30 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/js/jquery/jquery.min.js
+15/10/21 14:46:30 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/js/bootstrap.min.js
+15/10/21 14:46:30 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/images/logo-header.png
+15/10/21 14:46:30 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/images/poweredby.png
+16/10/21 20:12:22 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+16/10/21 20:12:23 DEBUG [http-nio-8080-exec-2] lutece.cache - Initializing cache : StaticFilesCachingFilter
+16/10/21 20:12:23 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+16/10/21 20:12:23 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login2.jpg
+16/10/21 20:12:23 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/favicon.ico
+16/10/21 20:12:41 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+16/10/21 20:12:41 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 20:12:41 INFO  [http-nio-8080-exec-6] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 20:34:54 DEBUG [http-nio-8080-exec-10] lutece.cache - Initializing cache : PageCachingFilter (CAUTION : NEVER USE WITH USER DYNAMIC DATA)
+16/10/21 20:34:54 DEBUG [http-nio-8080-exec-10] lutece.mvc - MVC controller - process default view
+16/10/21 20:34:58 DEBUG [http-nio-8080-exec-1] lutece.mvc - MVC controller - process action : 'confirmRemoveCatalog'
+16/10/21 20:34:58 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/bootstrap-responsive.min.css
+16/10/21 20:35:00 DEBUG [http-nio-8080-exec-6] lutece.mvc - MVC controller - process action : 'removeCatalog'
+16/10/21 20:35:00 DEBUG [http-nio-8080-exec-6] lutece.mvc - Redirect :Portal.jsp?page=catalog&view=manageCatalogs
+16/10/21 20:35:00 DEBUG [http-nio-8080-exec-7] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+16/10/21 20:35:01 DEBUG [http-nio-8080-exec-8] lutece.mvc - MVC controller - process action : 'confirmRemoveCatalog'
+16/10/21 20:35:01 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/bootstrap-responsive.min.css
+16/10/21 20:35:02 DEBUG [http-nio-8080-exec-1] lutece.mvc - MVC controller - process action : 'removeCatalog'
+16/10/21 20:35:02 DEBUG [http-nio-8080-exec-1] lutece.mvc - Redirect :Portal.jsp?page=catalog&view=manageCatalogs
+16/10/21 20:35:02 DEBUG [http-nio-8080-exec-2] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+16/10/21 21:42:34 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/role/ManagePageRole.jsp
+16/10/21 21:42:34 DEBUG [http-nio-8080-exec-5] lutece.authentication - Access NOT granted to url : http://localhost:8080/catalog/jsp/admin/role/ManagePageRole.jsp
+16/10/21 21:42:34 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+16/10/21 21:42:36 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+16/10/21 21:42:36 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+16/10/21 21:42:36 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login4.jpg
+16/10/21 21:42:37 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+16/10/21 21:42:37 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/role/ManagePageRole.jsp
+16/10/21 21:42:37 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/role/ManagePageRole.jsp?plugin_name=
+16/10/21 21:43:15 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 21:43:15 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp
+16/10/21 21:43:19 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp?page_id=2&param_block=5
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template1.gif
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template2.gif
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template3.gif
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template4.gif
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template5.gif
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template6.gif
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/js/admin/locales/bootstrap-flatpickr.fr.js
+16/10/21 21:43:19 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/site/AdminPagePreview.jsp
+16/10/21 21:44:56 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp
+16/10/21 21:44:56 DEBUG [http-nio-8080-exec-10] lutece.authentication - Access NOT granted to url : http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp
+16/10/21 21:44:56 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+16/10/21 21:44:56 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-colorpicker.min.css
+16/10/21 21:44:56 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-flatpickr.min.css
+16/10/21 21:44:59 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+16/10/21 21:44:59 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp
+16/10/21 21:45:01 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/site/AdminSite.jsp?page_id=2&param_block=5
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template2.gif
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template1.gif
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template3.gif
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template5.gif
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template4.gif
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/images/admin/skin/page_templates/page_template6.gif
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/js/admin/locales/bootstrap-flatpickr.fr.js
+16/10/21 21:45:01 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/site/AdminPagePreview.jsp
+16/10/21 22:15:02 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:15:02 DEBUG [http-nio-8080-exec-6] lutece.authentication - Access NOT granted to url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:15:02 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+16/10/21 22:15:03 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+16/10/21 22:15:03 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+16/10/21 22:15:03 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login1.jpg
+16/10/21 22:15:04 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+16/10/21 22:15:04 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:15:04 INFO  [http-nio-8080-exec-2] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:15:10 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp
+16/10/21 22:15:10 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp?plugin_name=
+16/10/21 22:15:14 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ViewPluginDescription.jsp
+16/10/21 22:15:14 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/system/ViewPluginDescription.jsp?plugin_name=catalog
+16/10/21 22:15:20 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:15:20 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:15:27 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminTechnicalMenu.jsp
+16/10/21 22:15:27 INFO  [http-nio-8080-exec-7] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminTechnicalMenu.jsp
+16/10/21 22:15:27 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/js/admin/editors/tinymce/tinymce.min.js
+16/10/21 22:15:47 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/attribute/CreateAttribute.jsp
+16/10/21 22:15:47 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/user/attribute/CreateAttribute.jsp
+16/10/21 22:16:50 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/attribute/DoCreateAttribute.jsp
+16/10/21 22:16:50 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminTechnicalMenu.jsp
+16/10/21 22:16:50 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminTechnicalMenu.jsp?
+16/10/21 22:26:35 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:35 DEBUG [http-nio-8080-exec-6] lutece.authentication - Access NOT granted to url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:35 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+16/10/21 22:26:36 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+16/10/21 22:26:36 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login1.jpg
+16/10/21 22:26:37 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+16/10/21 22:26:38 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:38 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:43 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:43 INFO  [http-nio-8080-exec-2] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:47 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:47 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:49 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+16/10/21 22:26:49 INFO  [http-nio-8080-exec-6] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+16/10/21 22:26:49 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:49 INFO  [http-nio-8080-exec-7] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:53 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+16/10/21 22:26:53 INFO  [http-nio-8080-exec-5] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+16/10/21 22:26:53 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:53 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:55 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+16/10/21 22:26:55 INFO  [http-nio-8080-exec-10] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+16/10/21 22:26:55 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+16/10/21 22:26:55 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap.min.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/material-kit/material-kit.override.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-flatpickr.min.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-colorpicker.min.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap4.override.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/portal_admin.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/all.min.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/material-kit/material-kit.min.css
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/js/admin/jquery/jquery-3.5.1.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/js/admin/jquery/jquery-ui.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/js/admin/bootstrap-filestyle.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/popper.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-colorpicker.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/js/admin/bootstrap-flatpickr.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/bootstrap-datetimepicker.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/bootstrap-material-design.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/nouislider.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/moment-with-locales.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/jquery.sharrre.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/material-kit.min.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/material-kit-forms.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/js/admin/style/bootstrap4/material-kit/admin.js
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/images/logo-header.png
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/images/poweredby.png
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/css/admin/style/webfonts/fa-solid-900.woff2
+19/10/21 22:55:11 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login4.jpg
+19/10/21 22:55:12 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+19/10/21 22:55:13 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 22:55:13 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 22:55:13 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/js/admin/jquery/jquery-migrate-3.3.1.min.js
+19/10/21 22:55:13 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/images/admin/skin/unknown.png
+19/10/21 22:55:13 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/images/logo-header-icon.png
+19/10/21 22:55:24 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 22:55:24 INFO  [http-nio-8080-exec-2] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp?page=project
+19/10/21 22:55:33 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 22:55:33 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp?page=catalog
+19/10/21 22:55:51 ERROR [http-nio-8080-exec-7] lutece.error - The specified Xpage '
+** USER INPUT DATA : BEGIN (0 lines and 7 chars) ** 
+project
+** USER INPUT DATA : END
+' cannot be retrieved. Check installation of your Xpage application.
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-8] lutece.cache - Object removed from the cache : PortalMenuService - key : [menu:1][m:0][roles:-]
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-8] lutece.cache - Object removed from the cache : LinksIncludeCacheService - key : [mode=0][locale=en_US]
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/css/bootstrap.min.css
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/page_template_styles.css
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/css/bootstrap-responsive.min.css
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/font-awesome.min.css
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/js/bootstrap.min.js
+19/10/21 22:55:51 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/js/jquery/jquery.min.js
+19/10/21 22:56:04 DEBUG [http-nio-8080-exec-6] lutece.mvc - MVC controller - process default view
+19/10/21 22:56:04 DEBUG [http-nio-8080-exec-6] lutece.cache - Object removed from the cache : pathCacheService - key : [XPageName:catalog][mode:0][locale:en_US]
+19/10/21 22:56:04 DEBUG [http-nio-8080-exec-6] lutece.cache - Object removed from the cache : LinksIncludeCacheService - key : [mode=0][page=catalog][locale=en_US]
+19/10/21 22:56:04 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/css/bootstrap-theme.min.css
+19/10/21 22:56:04 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/css/datepicker.css
+19/10/21 22:56:04 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/js/jquery/plugins/ui/css/jquery-ui-1.10.0.custom.css
+19/10/21 22:56:12 DEBUG [http-nio-8080-exec-5] lutece.mvc - MVC controller - process view : 'createCatalog'
+19/10/21 22:56:14 DEBUG [http-nio-8080-exec-9] lutece.mvc - MVC controller - process default view
+19/10/21 23:15:53 DEBUG [http-nio-8080-exec-8] lutece.mvc - MVC controller - process default view
+19/10/21 23:15:53 DEBUG [http-nio-8080-exec-8] lutece.cache - Object removed from the cache : pathCacheService - key : [XPageName:catalog][mode:0][locale:en_US]
+19/10/21 23:15:53 DEBUG [http-nio-8080-exec-8] lutece.cache - Object removed from the cache : PortalMenuService - key : [menu:1][m:0][roles:-]
+19/10/21 23:15:53 DEBUG [http-nio-8080-exec-8] lutece.cache - Object removed from the cache : LinksIncludeCacheService - key : [mode=0][page=catalog][locale=en_US]
+19/10/21 23:15:54 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/favicon.ico
+19/10/21 23:15:56 DEBUG [http-nio-8080-exec-3] lutece.mvc - MVC controller - process default view
+19/10/21 23:15:56 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/favicon.ico
+19/10/21 23:16:05 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+19/10/21 23:16:05 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+19/10/21 23:16:06 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login2.jpg
+19/10/21 23:16:07 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+19/10/21 23:16:07 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:16:08 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+19/10/21 23:16:16 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+19/10/21 23:16:16 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:16:17 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+19/10/21 23:16:23 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+19/10/21 23:16:23 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:16:23 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:16:25 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyDefaultUserPassword.jsp
+19/10/21 23:16:25 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyDefaultUserPassword.jsp
+19/10/21 23:16:25 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/js/admin/jquery/plugins/jquery.complexify.js
+19/10/21 23:16:43 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/DoModifyDefaultUserPassword.jsp
+19/10/21 23:16:44 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:16:44 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:16:47 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogout.jsp
+19/10/21 23:16:47 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:16:53 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+19/10/21 23:16:57 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+19/10/21 23:16:57 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:16:57 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-6] lutece.authentication - Access NOT granted to url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMessage.jsp
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-flatpickr.min.css
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap-colorpicker.min.css
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/material-kit/material-kit.override.css
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/all.min.css
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap.min.css
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/bootstrap4.override.css
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/css/admin/style/bootstrap4/portal_admin.css
+19/10/21 23:17:19 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/favicon.ico
+19/10/21 23:17:20 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+19/10/21 23:17:20 DEBUG [http-nio-8080-exec-10] lutece.cache - URI served from cache : /catalog/css/admin/images/admin/skin/bg_login1.jpg
+19/10/21 23:17:20 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/images/admin/skin/bg_login3.jpg
+19/10/21 23:17:22 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoAdminLogin.jsp
+19/10/21 23:17:22 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:17:22 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:17:22 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/images/logo-header-icon.png
+19/10/21 23:17:22 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/images/admin/skin/unknown.png
+19/10/21 23:17:27 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+19/10/21 23:17:27 INFO  [http-nio-8080-exec-7] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+19/10/21 23:17:27 DEBUG [http-nio-8080-exec-2] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:17:27 INFO  [http-nio-8080-exec-2] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:17:41 DEBUG [http-nio-8080-exec-10] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/features/ManageRights.jsp
+19/10/21 23:17:41 INFO  [http-nio-8080-exec-10] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/features/ManageRights.jsp?plugin_name=
+19/10/21 23:17:44 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ManageUsers.jsp
+19/10/21 23:17:44 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ManageUsers.jsp?plugin_name=
+19/10/21 23:17:46 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUser.jsp
+19/10/21 23:17:46 INFO  [http-nio-8080-exec-6] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUser.jsp?id_user=1
+19/10/21 23:17:46 DEBUG [http-nio-8080-exec-9] lutece.cache - URI served from cache : /catalog/js/admin/jquery/plugins/jquery.complexify.js
+19/10/21 23:17:47 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp
+19/10/21 23:17:47 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ModifyUserRights.jsp?id_user=1
+19/10/21 23:17:55 DEBUG [http-nio-8080-exec-5] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/DoModifyUserRights.jsp
+19/10/21 23:17:55 DEBUG [http-nio-8080-exec-7] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/user/ManageUserRights.jsp
+19/10/21 23:17:55 INFO  [http-nio-8080-exec-7] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/user/ManageUserRights.jsp?id_user=1
+19/10/21 23:17:58 DEBUG [http-nio-8080-exec-2] lutece.cache - Object removed from the cache : LinksIncludeCacheService - key : [mode=0][locale=en_US]
+19/10/21 23:17:58 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/bootstrap-theme.min.css
+19/10/21 23:18:05 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+19/10/21 23:18:05 INFO  [http-nio-8080-exec-6] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/DoChangeLanguage.jsp
+19/10/21 23:18:05 DEBUG [http-nio-8080-exec-9] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:18:05 INFO  [http-nio-8080-exec-9] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/AdminMenu.jsp
+19/10/21 23:18:11 DEBUG [http-nio-8080-exec-4] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp
+19/10/21 23:18:11 INFO  [http-nio-8080-exec-4] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/system/ManagePlugins.jsp?plugin_name=
+19/10/21 23:18:11 DEBUG [http-nio-8080-exec-5] lutece.cache - URI served from cache : /catalog/images/admin/skin/core.png
+19/10/21 23:18:11 DEBUG [http-nio-8080-exec-7] lutece.cache - URI served from cache : /catalog/images/admin/skin/feature_default_icon.png
+19/10/21 23:18:11 DEBUG [http-nio-8080-exec-2] lutece.cache - URI served from cache : /catalog/images/admin/skin/plugins/lucene/lucene.png
+19/10/21 23:18:21 DEBUG [http-nio-8080-exec-3] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+19/10/21 23:18:21 DEBUG [http-nio-8080-exec-3] lutece.mvc - MVC controller - process default view
+19/10/21 23:18:21 ERROR [http-nio-8080-exec-3] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+19/10/21 23:18:21 INFO  [http-nio-8080-exec-3] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?plugin_name=catalog
+19/10/21 23:18:23 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+19/10/21 23:18:23 DEBUG [http-nio-8080-exec-1] lutece.mvc - MVC controller - process view : 'createCatalog'
+19/10/21 23:18:23 INFO  [http-nio-8080-exec-1] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+19/10/21 23:18:37 DEBUG [http-nio-8080-exec-8] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+19/10/21 23:18:37 DEBUG [http-nio-8080-exec-8] lutece.mvc - MVC controller - process action : 'createCatalog'
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-8] util.Version - HV000001: Hibernate Validator 5.3.5.Final
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-8] xml.ValidationXmlParser - HV000007: META-INF/validation.xml found. Parsing XML based configuration.
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-8] xml.ValidationBootstrapParameters - HV000004: Using fr.paris.lutece.util.beanvalidation.LuteceMessageInterpolator as message interpolator.
+19/10/21 23:18:37 DEBUG [http-nio-8080-exec-8] lutece.mvc - Redirect :ManageCatalogs.jsp?view=manageCatalogs
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-8] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+19/10/21 23:18:37 DEBUG [http-nio-8080-exec-6] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp
+19/10/21 23:18:37 DEBUG [http-nio-8080-exec-6] lutece.mvc - MVC controller - process view : 'manageCatalogs'
+19/10/21 23:18:37 ERROR [http-nio-8080-exec-6] lutece.error - Error localizing key : 'catalog.manage_catalog.title' - Can't find resource for bundle java.util.PropertyResourceBundle, key manage_catalog.title
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-6] lutece.adminaccess - USER id:1, name: admin Admin, ip: 127.0.0.1, url: http://localhost:8080/catalog/jsp/admin/plugins/catalog/ManageCatalogs.jsp?view=manageCatalogs
+19/10/21 23:18:44 DEBUG [http-nio-8080-exec-9] lutece.mvc - MVC controller - process default view
+19/10/21 23:18:44 ERROR [http-nio-8080-exec-9] freemarker.runtime - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19/10/21 23:18:44 ERROR [http-nio-8080-exec-9] freemarker.runtime - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19/10/21 23:18:44 ERROR [http-nio-8080-exec-9] lutece.error - Critical AppException, root cause: InvalidReferenceException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+fr.paris.lutece.portal.service.util.AppException: MVC Error dispaching view and action 
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:181)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: fr.paris.lutece.util.html.exception.LuteceFreemarkerException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:324)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	... 53 more
+Caused by: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	... 64 more
+19/10/21 23:18:44 ERROR [http-nio-8080-exec-9] lutece.error - Error 500 : Caused by previous Critical AppException
+19/10/21 23:18:44 DEBUG [http-nio-8080-exec-4] lutece.cache - URI served from cache : /catalog/css/bootstrap-responsive.min.css
+19/10/21 23:19:11 DEBUG [http-nio-8080-exec-2] lutece.mvc - MVC controller - process default view
+19/10/21 23:19:11 ERROR [http-nio-8080-exec-2] freemarker.runtime - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19/10/21 23:19:11 ERROR [http-nio-8080-exec-2] freemarker.runtime - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19/10/21 23:19:11 ERROR [http-nio-8080-exec-2] lutece.error - Critical AppException, root cause: InvalidReferenceException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+fr.paris.lutece.portal.service.util.AppException: MVC Error dispaching view and action 
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:181)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: fr.paris.lutece.util.html.exception.LuteceFreemarkerException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:324)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	... 53 more
+Caused by: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	... 64 more
+19/10/21 23:19:11 ERROR [http-nio-8080-exec-2] lutece.error - Error 500 : Caused by previous Critical AppException
+19/10/21 23:19:11 DEBUG [http-nio-8080-exec-3] lutece.cache - URI served from cache : /catalog/css/bootstrap-responsive.min.css
+19/10/21 23:19:11 DEBUG [http-nio-8080-exec-1] lutece.cache - URI served from cache : /catalog/favicon.ico
+19/10/21 23:19:12 DEBUG [http-nio-8080-exec-10] lutece.mvc - MVC controller - process default view
+19/10/21 23:19:12 ERROR [http-nio-8080-exec-10] freemarker.runtime - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19/10/21 23:19:12 ERROR [http-nio-8080-exec-10] freemarker.runtime - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19/10/21 23:19:12 ERROR [http-nio-8080-exec-10] lutece.error - Critical AppException, root cause: InvalidReferenceException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+fr.paris.lutece.portal.service.util.AppException: MVC Error dispaching view and action 
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:181)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getPage(MVCApplication.java:118)
+	at fr.paris.lutece.portal.service.content.XPageAppService.getPage(XPageAppService.java:238)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:205)
+	at fr.paris.lutece.portal.web.PortalJspBean.getContent(PortalJspBean.java:146)
+	at org.apache.jsp.jsp.site.Portal_jsp._jspService(Portal_jsp.java:142)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.xss.SafeRequestFilter.doFilter(SafeRequestFilter.java:103)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.UploadFilter.doFilter(UploadFilter.java:145)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.upload.DosGuardFilter.doFilter(DosGuardFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter.doFilter(HeadersPageCachingFilter.java:193)
+	at fr.paris.lutece.portal.service.cache.FullPageCachingService.doFilter(FullPageCachingService.java:74)
+	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: fr.paris.lutece.util.html.exception.LuteceFreemarkerException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:324)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.loadTemplate(AbstractFreeMarkerTemplateService.java:145)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.loadTemplate(AppTemplateService.java:256)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:211)
+	at fr.paris.lutece.portal.service.template.AppTemplateService.getTemplate(AppTemplateService.java:187)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.getXPage(MVCApplication.java:311)
+	at fr.paris.lutece.plugins.catalog.web.CatalogXPage.getManageCatalogs(CatalogXPage.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at fr.paris.lutece.portal.util.mvc.xpage.MVCApplication.processController(MVCApplication.java:165)
+	... 53 more
+Caused by: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> catalog.imageurl  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 47]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${catalog.imageurl}  [in template "skin/plugins/catalog/manage_catalogs.html" at line 10, column 45]
+	~ Reached through: #nested  [in template "commons_bs4_materialkit.html" in macro "row" at line 693, column 17]
+	~ Reached through: @row  [in template "skin/plugins/catalog/manage_catalogs.html" at line 4, column 1]
+----
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:481)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:401)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:370)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:100)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:63)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeNestedContent(Environment.java:620)
+	at freemarker.core.BodyInstruction.accept(BodyInstruction.java:60)
+	at freemarker.core.Environment.visit(Environment.java:370)
+	at freemarker.core.Environment.invokeMacroOrFunctionCommonPart(Environment.java:876)
+	at freemarker.core.Environment.invokeMacro(Environment.java:812)
+	at freemarker.core.UnifiedCall.accept(UnifiedCall.java:84)
+	at freemarker.core.Environment.visit(Environment.java:334)
+	at freemarker.core.Environment.visit(Environment.java:340)
+	at freemarker.core.Environment.process(Environment.java:313)
+	at freemarker.template.Template.process(Template.java:383)
+	at fr.paris.lutece.portal.service.template.AbstractFreeMarkerTemplateService.processTemplate(AbstractFreeMarkerTemplateService.java:319)
+	... 64 more
+19/10/21 23:19:12 ERROR [http-nio-8080-exec-10] lutece.error - Error 500 : Caused by previous Critical AppException
+19/10/21 23:19:12 DEBUG [http-nio-8080-exec-8] lutece.cache - URI served from cache : /catalog/css/bootstrap-responsive.min.css
+19/10/21 23:19:12 DEBUG [http-nio-8080-exec-6] lutece.cache - URI served from cache : /catalog/favicon.ico
+06/12/21 21:38:45 ERROR [Lutece-MainThread] lutece.error - Critical AppException, root cause: ConnectException: Connection refused
+fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:134)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:105)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:175)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:174)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:122)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:93)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:83)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:160)
+	at fr.paris.lutece.portal.service.init.AppInitListener.contextInitialized(AppInitListener.java:73)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4763)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5232)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:919)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:898)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:887)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:861)
+	at com.mysql.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:2105)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2030)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:778)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:228)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.newConnection(ConnectionPool.java:311)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:129)
+	... 18 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:342)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2197)
+	at com.mysql.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:2046)
+	... 33 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:574)
+	at java.base/sun.nio.ch.Net.connect(Net.java:563)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:301)
+	... 35 more
+06/12/21 21:38:45 ERROR [Lutece-MainThread] lutece.error - Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:134)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:105)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:175)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:174)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:122)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:93)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:83)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:160)
+	at fr.paris.lutece.portal.service.init.AppInitListener.contextInitialized(AppInitListener.java:73)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4763)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5232)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:919)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:898)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:887)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:861)
+	at com.mysql.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:2105)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2030)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:778)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:228)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.newConnection(ConnectionPool.java:311)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:129)
+	... 18 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:342)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2197)
+	at com.mysql.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:2046)
+	... 33 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:574)
+	at java.base/sun.nio.ch.Net.connect(Net.java:563)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:301)
+	... 35 more
+06/12/21 21:38:45 ERROR [Lutece-MainThread] lutece.error - Error initializing pool : Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+fr.paris.lutece.portal.service.init.LuteceInitException: Exception when getting the pool 'portal'. Please check your '/WEB-INF/conf/db.properties' file.
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:180)
+	at fr.paris.lutece.util.pool.PoolManager.init(PoolManager.java:122)
+	at fr.paris.lutece.util.pool.PoolManager.<init>(PoolManager.java:77)
+	at fr.paris.lutece.util.pool.PoolManager.getInstance(PoolManager.java:93)
+	at fr.paris.lutece.portal.service.database.AppConnectionService.init(AppConnectionService.java:83)
+	at fr.paris.lutece.portal.service.init.AppInit.initServices(AppInit.java:160)
+	at fr.paris.lutece.portal.service.init.AppInitListener.contextInitialized(AppInitListener.java:73)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4763)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5232)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1427)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1417)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: fr.paris.lutece.portal.service.util.AppException: SQL Error executing command : com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:134)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.<init>(ConnectionPool.java:105)
+	at fr.paris.lutece.util.pool.service.LuteceConnectionService.init(LuteceConnectionService.java:175)
+	at fr.paris.lutece.util.pool.PoolManager.createPools(PoolManager.java:174)
+	... 15 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:919)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:898)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:887)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:861)
+	at com.mysql.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:2105)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2030)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:778)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:386)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:228)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.newConnection(ConnectionPool.java:311)
+	at fr.paris.lutece.util.pool.service.ConnectionPool.initPool(ConnectionPool.java:129)
+	... 18 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:342)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2197)
+	at com.mysql.jdbc.ConnectionImpl.connectWithRetries(ConnectionImpl.java:2046)
+	... 33 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:574)
+	at java.base/sun.nio.ch.Net.connect(Net.java:563)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:301)
+	... 35 more
+06/12/21 21:40:12 ERROR [http-nio-8080-exec-1] lutece.error - Critical AppException, root cause: NoDatabaseException: Database access error. Please check component installations and db.properties.
+fr.paris.lutece.portal.service.util.NoDatabaseException: Database access error. Please check component installations and db.properties.
+	at fr.paris.lutece.util.sql.DAOUtil.loadPlugin(DAOUtil.java:317)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:220)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:128)
+	at fr.paris.lutece.portal.business.datastore.DataEntityDAO.load(DataEntityDAO.java:83)
+	at fr.paris.lutece.portal.business.datastore.DataEntityHome.findByPrimaryKey(DataEntityHome.java:104)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getDataValue(DatastoreService.java:101)
+	at fr.paris.lutece.portal.service.util.AppPathService.getRootForwardUrl(AppPathService.java:388)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:127)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+06/12/21 21:40:12 ERROR [http-nio-8080-exec-1] lutece.error - ##### CRITICAL ERROR ##### : Datastore has been disabled due to a NoDatabaseException catched
+fr.paris.lutece.portal.service.util.NoDatabaseException: Database access error. Please check component installations and db.properties.
+	at fr.paris.lutece.util.sql.DAOUtil.loadPlugin(DAOUtil.java:317)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:220)
+	at fr.paris.lutece.util.sql.DAOUtil.<init>(DAOUtil.java:128)
+	at fr.paris.lutece.portal.business.datastore.DataEntityDAO.load(DataEntityDAO.java:83)
+	at fr.paris.lutece.portal.business.datastore.DataEntityHome.findByPrimaryKey(DataEntityHome.java:104)
+	at fr.paris.lutece.portal.service.datastore.DatastoreService.getDataValue(DatastoreService.java:101)
+	at fr.paris.lutece.portal.service.util.AppPathService.getRootForwardUrl(AppPathService.java:388)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:127)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.service.filter.MainFilter.doFilter(MainFilter.java:106)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+06/12/21 21:40:12 DEBUG [http-nio-8080-exec-1] lutece.cache - Initializing cache : PageCachingFilter (CAUTION : NEVER USE WITH USER DYNAMIC DATA)
+06/12/21 21:40:12 DEBUG [http-nio-8080-exec-2] lutece.cache - Initializing cache : StaticFilesCachingFilter
+06/12/21 21:41:28 DEBUG [http-nio-8080-exec-1] lutece.authentication - Accessing url : http://localhost:8080/catalog/jsp/admin/AdminLogin.jsp
+06/12/21 21:41:28 ERROR [http-nio-8080-exec-1] lutece.error - Error 500 : Cannot invoke "fr.paris.lutece.portal.business.user.authentication.AdminAuthentication.getLoginPageUrl()" because "fr.paris.lutece.portal.service.admin.AdminAuthenticationService._authentication" is null
+java.lang.NullPointerException: Cannot invoke "fr.paris.lutece.portal.business.user.authentication.AdminAuthentication.getLoginPageUrl()" because "fr.paris.lutece.portal.service.admin.AdminAuthenticationService._authentication" is null
+	at fr.paris.lutece.portal.service.admin.AdminAuthenticationService.getLoginPageUrl(AdminAuthenticationService.java:329)
+	at fr.paris.lutece.portal.web.user.AuthenticationFilter.getLoginUrl(AuthenticationFilter.java:212)
+	at fr.paris.lutece.portal.web.user.AuthenticationFilter.createAllowedUrlSet(AuthenticationFilter.java:264)
+	at fr.paris.lutece.portal.web.user.AuthenticationFilter.isPrivateUrl(AuthenticationFilter.java:256)
+	at fr.paris.lutece.portal.web.user.AuthenticationFilter.doFilter(AuthenticationFilter.java:110)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at fr.paris.lutece.portal.web.encoding.EncodingFilter.doFilter(EncodingFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:196)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:698)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:364)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:624)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1650)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:832)

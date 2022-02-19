@@ -1,0 +1,48 @@
+<#include "catalog_tabs.html" />
+<@tabs tab="catalog" />
+
+<div class="row" >
+    <div class="col-sm-12">
+
+    <form class="form-horizontal" role="form" method="post" action="jsp/site/Portal.jsp?page=catalog">
+        <fieldset>
+            <legend>#i18n{catalog.create_catalog.title{i18n_close}</legend>
+
+            <@messages errors=errors />
+            <input type="hidden" id="id" name="id"/>
+            <input type="hidden" value="${token}" name="token" />
+
+          <@formGroup labelFor='price' labelKey='#i18n{catalog.create_catalog.labelPrice}' helpKey='#i18n{catalog.create_catalog.labelPrice.help}' mandatory=true>
+						<@input type="text" id="price" name="price" value="${catalog.price!''}"  tabIndex="1" />
+					</@formGroup>
+          <@formGroup labelFor='name' labelKey='#i18n{catalog.create_catalog.labelName}' helpKey='#i18n{catalog.create_catalog.labelName.help}' mandatory=true>
+						<@input type="text" id="name" name="name" value="${catalog.name!''}"  maxlength=50 tabIndex="2" />
+					</@formGroup>
+          <@formGroup labelFor='description' labelKey='#i18n{catalog.create_catalog.labelDescription}' helpKey='#i18n{catalog.create_catalog.labelDescription.help}' mandatory=true>
+						<@input type="text" id="description" name="description" value="${catalog.description!''}"  tabIndex="3" />
+					</@formGroup>
+          <@formGroup labelFor='color' labelKey='#i18n{catalog.create_catalog.labelColor}' helpKey='#i18n{catalog.create_catalog.labelColor.help}' mandatory=true>
+						<@input type="text" id="color" name="color" value="${catalog.color!''}"  maxlength=50 tabIndex="4" />
+					</@formGroup>
+          <@formGroup labelFor='shippingprice' labelKey='#i18n{catalog.create_catalog.labelShippingprice}' helpKey='#i18n{catalog.create_catalog.labelShippingprice.help}' mandatory=true>
+						<@input type="text" id="shippingprice" name="shippingprice" value="${catalog.shippingprice!''}"  tabIndex="5" />
+					</@formGroup>
+          <@formGroup labelFor='vat' labelKey='#i18n{catalog.create_catalog.labelVat}' helpKey='#i18n{catalog.create_catalog.labelVat.help}' mandatory=true>
+						<@input type="text" id="vat" name="vat" value="${catalog.vat!''}"  tabIndex="6" />
+					</@formGroup>
+            <div class="form-group">
+                <div class="col-sm-offset-3 col-sm-9">
+                    <button name="action_createCatalog" class="btn btn-primary" type="submit" tabindex="6">
+                        #i18n{portal.util.labelCreate}
+                    </button>
+                    <button name="view_manageCatalogs" class="btn" type="submit" >
+                        #i18n{portal.util.labelCancel}
+                    </button>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+    </div>
+</div>
+
+  

@@ -1,0 +1,80 @@
+<#include "catalog_tabs.html" />
+<@tabs tab="catalog" />
+
+<div class="row" >
+    <div class="col-sm-12">
+
+        <@messages infos=infos />
+
+        <form method="post"  action="jsp/site/Portal.jsp?page=catalog">
+            <button name="view_createCatalog" class="btn btn-primary pull-right" type="submit">
+                <span class="fa fa-plus"></span>
+                #i18n{catalog.manage_catalogs.buttonAdd}
+            </button>
+        </form>
+
+    <h4>#i18n{catalog.manage_catalogs.title{i18n_close}</h4>
+        
+    <table class="table table-condensed table-striped">
+        <tr>
+            <input type="hidden" id="id" name="id"/>
+            <td>
+							${catalog.price}
+            </td>    
+            <td>
+							${catalog.name}
+            </td>    
+            <td>
+							${catalog.description}
+            </td>    
+            <td>
+							${catalog.color}
+            </td>    
+            <td>
+							${catalog.shippingprice}
+            </td>    
+            <td>
+							${catalog.vat}
+            </td>    
+            <th>#i18n{portal.util.labelActions}</th>
+        </tr>
+            <#list catalog_list as catalog >
+        <tr>
+            <input type="hidden" id="id" name="id" />
+            <td>
+                ${catalog.price}
+            </td>    
+            <td>
+                ${catalog.name}
+            </td>    
+            <td>
+                ${catalog.description}
+            </td>    
+            <td>
+                ${catalog.color}
+            </td>    
+            <td>
+                ${catalog.shippingprice}
+            </td>    
+            <td>
+                ${catalog.vat}
+            </td>    
+        <td>
+            <a href="jsp/site/Portal.jsp?page=catalog&view=modifyCatalog&id=${catalog.id}"
+               class="btn btn-primary btn-sm" title="#i18n{portal.util.labelModify}">
+                <span class="fa fa-pencil-square-o"></span>
+            </a>
+
+            <a href="jsp/site/Portal.jsp?page=catalog&action=confirmRemoveCatalog&id=${catalog.id}"
+               class="btn btn-danger btn-sm" title="#i18n{portal.util.labelDelete}" >
+                <span class="fa fa-trash-o"></span>
+            </a>
+        </td>
+        </tr>
+        </#list>
+    </table>
+    
+    </div>
+</div>
+
+  
