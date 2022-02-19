@@ -1,0 +1,24 @@
+<#compress>
+<#if listExtendableResourceActions?? && listExtendableResourceActions?has_content>
+<@extendableResourceAction>
+	<@listGroup>
+	<#list listExtendableResourceActions as resourceTypeAction>
+		<#if resourceTypeAction.buttonTemplate?? && resourceTypeAction.buttonTemplate!=''>
+			<@listGroupItem><@extendableResourceActionList action=resourceTypeAction /></@listGroupItem>
+		</#if>
+	</#list>
+	</@listGroup>
+</@extendableResourceAction>
+</#if>
+
+<#-- extendableResourceAction + extendableResourceActionList -->
+<#macro extendableResourceAction>
+<@aButton class='dropdown-toggle' size='sm' id='extender' dropdownMenu=true href='#' title='#i18n{portal.admin.resource.extend}' buttonIcon='bookmark' hideTitle=['xs','sm','md']>
+	<#nested>
+</@aButton>
+</#macro>
+
+<#macro extendableResourceActionList action target='_top'>
+<#if action.buttonTemplate?has_content><#include action.buttonTemplate /></#if>
+</#macro>
+</#compress>

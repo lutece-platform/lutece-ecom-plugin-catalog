@@ -1,0 +1,33 @@
+<#include "catalog_tabs.html" />
+<@tabs2 tab="catalog" />
+
+<@row>
+	<@columns>
+		<@tform class='form-horizontal' action='jsp/site/Portal.jsp?page=catalog'>
+			<fieldset>
+				<legend>#i18n{catalog.create_catalog.title}</legend>
+				<@messages errors=errors />
+				<input type="hidden" id="id" name="id"/>
+				<input type="hidden" value="${token}" name="token" />
+
+          		<@formGroup labelFor='name' labelKey='#i18n{catalog.create_catalog.labelName}' helpKey='#i18n{catalog.create_catalog.labelName.help}' mandatory=true>
+					<@input type="text" id="name" name="name" value="${catalog.name!''}"  maxlength=50 tabIndex="1" />
+				</@formGroup>
+          		<@formGroup labelFor='description' labelKey='#i18n{catalog.create_catalog.labelDescription}' helpKey='#i18n{catalog.create_catalog.labelDescription.help}' mandatory=true>
+					<@input type="text" id="description" name="description" value="${catalog.description!''}"  tabIndex="2" />
+				</@formGroup>
+          		<@formGroup labelFor='price' labelKey='#i18n{catalog.create_catalog.labelPrice}' helpKey='#i18n{catalog.create_catalog.labelPrice.help}' mandatory=true>
+					<@input type="text" id="price" name="price" value="${catalog.price!''}"  tabIndex="3" />
+				</@formGroup>
+          		<@formGroup labelFor='vat' labelKey='#i18n{catalog.create_catalog.labelVat}' helpKey='#i18n{catalog.create_catalog.labelVat.help}' mandatory=true>
+					<@input type="text" id="vat" name="vat" value="${catalog.vat!''}"  tabIndex="4" />
+				</@formGroup>
+        		<@formGroup>
+          			<@button name='action_createCatalog' type='submit' tabIndex='4' title='#i18n{portal.util.labelCreate}' buttonIcon='plus' />
+					<@button name='view_manageCatalogs' type='submit' title='#i18n{portal.util.labelCancel}' buttonIcon='close' color='btn-secondary' />
+				</@formGroup>
+        </fieldset>
+    </@tform>
+	</@columns>
+</@row>
+

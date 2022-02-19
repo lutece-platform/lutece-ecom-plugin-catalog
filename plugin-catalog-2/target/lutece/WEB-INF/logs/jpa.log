@@ -1,0 +1,6 @@
+15/10/21 11:25:38 INFO  [http-nio-8080-exec-3] util.Version - HV000001: Hibernate Validator 5.3.5.Final
+15/10/21 11:25:38 INFO  [http-nio-8080-exec-3] xml.ValidationXmlParser - HV000007: META-INF/validation.xml found. Parsing XML based configuration.
+15/10/21 11:25:39 INFO  [http-nio-8080-exec-3] xml.ValidationBootstrapParameters - HV000004: Using fr.paris.lutece.util.beanvalidation.LuteceMessageInterpolator as message interpolator.
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-8] util.Version - HV000001: Hibernate Validator 5.3.5.Final
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-8] xml.ValidationXmlParser - HV000007: META-INF/validation.xml found. Parsing XML based configuration.
+19/10/21 23:18:37 INFO  [http-nio-8080-exec-8] xml.ValidationBootstrapParameters - HV000004: Using fr.paris.lutece.util.beanvalidation.LuteceMessageInterpolator as message interpolator.

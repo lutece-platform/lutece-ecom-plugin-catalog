@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fr.paris.lutece.tools:build-config:1.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fr/paris/lutece/tools/build-config/1.1.0-SNAPSHOT/build-config-1.1.0-20211018.142614-28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/fr/paris/lutece/tools/build-config/1.1.0-SNAPSHOT/build-config-1.1.0-20211018.142614-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/fr/paris/lutece/tools/build-config/1.1.0-SNAPSHOT/build-config-1.1.0-20211018.142614-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
